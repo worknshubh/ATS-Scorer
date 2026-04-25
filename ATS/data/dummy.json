@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Brush",
+    "price": 50,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 55000,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Washing Machine",
+    "price": 22000,
+    "in_stock": false
+  }
+]

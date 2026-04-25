@@ -1,0 +1,15 @@
+[project]
+name = "ats-maker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.136.1",
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.3.1",
+    "python-multipart>=0.0.26",
+    "uvicorn>=0.46.0",
+]
